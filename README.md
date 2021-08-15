@@ -28,11 +28,11 @@
     <a href="https://github.com/saboye/Data-Modeling-with-Postgres"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/saboye/Data-Modeling-with-Postgres">View Demo</a>
+    <a href="https://github.com/saboye/Extract-Transform-Load-Weather-Data">View Demo</a>
     ·
-    <a href="https://github.com/saboye/Data-Modeling-with-Postgres/issues">Report Bug</a>
+    <a href="https://github.com/saboye/Extract-Transform-Load-Weather-Data/issues">Report Bug</a>
     ·
-    <a href="https://github.com/saboye/Data-Modeling-with-Postgres/issues">Request Feature</a>
+    <a href="https://https://github.com/saboye/Extract-Transform-Load-Weather-Data/issues">Request Feature</a>
   </p>
 </p>
 
