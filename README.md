@@ -12,7 +12,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/saboye/Data-Modeling-with-Postgrese">
-    <img src="images/ETL.png" alt="Logo" width="400" height="300">
+    <img src="images/ETL.png" alt="Logo" width="600" height="300">
   </a>
 
   <h1 align="center">ETL</h1>
@@ -44,7 +44,7 @@
 <!-- ABOUT THE PROJECT -->
 ### About The Project <a name="About_The_Project"></a>
 
-In this project, I am creating an ETL pipeline that extracts a database schema using a Postgre Relational database.  The project tasks need to define the data warehouse Schema for a particular analytic using SQLite. 
+In this project, I create an ETL pipeline that extracts data from flat files and transforms and loads it into an SQLite database.  The project tasks need to define the data warehouse Schema for a particular analytic use.  
 
 
 ### Installation <a name="Installation"></a>
