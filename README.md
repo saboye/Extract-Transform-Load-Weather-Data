@@ -12,7 +12,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/saboye/Data-Modeling-with-Postgrese">
-    <img src="images/ETL.png" alt="Logo" width="600" height="400">
+    <img src="images/ETL.png" alt="Logo" width="400" height="300">
   </a>
 
   <h1 align="center">ETL</h1>
@@ -31,7 +31,7 @@
   </p>
 </p>
 
-# Table of contents
+### Table of contents
 1. [About The Project](#About_The_Project)
 2. [Installation](#Installation)
 3. [Schema](#Schema)
@@ -42,12 +42,12 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project <a name="About_The_Project"></a>
+### About The Project <a name="About_The_Project"></a>
 
 In this project, I am creating an ETL pipeline that extracts a database schema using a Postgre Relational database.  The project tasks need to define the data warehouse Schema for a particular analytic using SQLite. 
 
 
-## Installation <a name="Installation"></a>
+### Installation <a name="Installation"></a>
 1. requirement  
 ```py
 pip install pysqlite
@@ -71,17 +71,17 @@ CREATE INDEX IF NOT EXISTS weather_day ON weather(day);
 
 ### Data Wearhouse demo<a name="Data_Wearhouse_demo"></a>
 
-To see or to make a SQL query, After downloadingp please drag and drop the `weather.db` to https://db.samuelaboye.dev/
+To see or to make a SQL query, After downloading please drag and drop the `weather.db` to https://db.samuelaboye.dev/
 
 ![](images/Sample_SQL.jpg)
 
 <!-- LICENSE -->
-## License <a name="License"></a>
+### License <a name="License"></a>
 
 Distributed under the MIT License. See [LICENSE](https://github.com/saboye/Extract-Transform-Load-Weather-Data/blob/master/LICENSE.txt) for more information.
 
 <!-- CONTACT -->
-## Contact <a name="Contact"></a>
+### Contact <a name="Contact"></a>
 
 Your Name - [@saboye](https://twitter.com/saboye1) 
 
@@ -90,7 +90,7 @@ Project Link: [https://github.com/saboye/Extract-Transform-Load-Weather-Data](ht
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements <a name="Acknowledgements"></a>
+### Acknowledgements <a name="Acknowledgements"></a>
 
 * [https://www.postgresql.org/](https://www.postgresql.org/)
 * [https://www.antwak.com/](https://www.antwak.com/)
