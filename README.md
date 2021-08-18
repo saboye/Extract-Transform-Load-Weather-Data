@@ -100,5 +100,5 @@ Project Link: [https://github.com/saboye/Extract-Transform-Load-Weather-Data](ht
 * [https://www.postgresql.org/](https://www.postgresql.org/)
 * [https://www.antwak.com/](https://www.antwak.com/)
 * [https://www.postgresqltutorial.com/](https://www.postgresqltutorial.com/)
-* [https://www.draw.io](https://www.draw.io/index.html)
+
 
